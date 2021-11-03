@@ -17,7 +17,7 @@ const className = rule({
 ```
 
 Those are good for **DX** and they will decrease your overall bundle size after
-sufficient use. You can find the full up-to-date emmet list [here](../addon/emmet.js) or refer
+sufficient use. You can find the full up-to-date emmet list [here]<!-- (../addon/emmet.js) -->or refer
 [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/) (CSS Section) for all possible abbreviations.
 
 > Currently `@media` queries, `@keyframes` and related abbreviations are not supported. If a specific Emmet

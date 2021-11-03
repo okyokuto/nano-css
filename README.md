@@ -12,7 +12,7 @@ __Motto of `nano-css` is simple__: *create the smallest possible CSS-in-JS libra
 - __`@media` queries__ and __animation `@keyframes`__ are supported
 - __Auto-prefixes__ your styles
 - __Extract CSS__ into external style sheet
-- __Public domain__ &mdash; [Unlicense license](./LICENSE)
+- __Public domain__ &mdash; [Unlicense license]<!-- (./LICENSE) -->
 
 
 ## Reference

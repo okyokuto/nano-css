@@ -3,7 +3,7 @@ home: true
 heroText: nano-css
 actionText: Get Started →
 actionLink: /docs/Installation
-footer: Unlicense | Copyright © Vadim Dalecky
+footer: Unlicense | Copyright © streamich
 ---
 
 # nano-css
@@ -20,7 +20,7 @@ footer: Unlicense | Copyright © Vadim Dalecky
 -   **`@media` queries** and **animation `@keyframes`** are supported
 -   **Auto-prefixes** your styles
 -   **Extract CSS** into external style sheet
--   **Public domain** &mdash; [Unlicense license](./LICENSE)
+-   **Public domain** &mdash; [Unlicense license]<!-- (./LICENSE) -->
 
 ## Reference
 

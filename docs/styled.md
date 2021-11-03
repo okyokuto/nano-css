@@ -14,7 +14,7 @@ const Button = styled('button')({
 }));
 ```
 
-`styled()()` comes with a list of [pre-generated HTML tag names](../addon/styled.js).
+`styled()()` comes with a list of [pre-generated HTML tag names]<!-- (../addon/styled.js). -->
 
 ```jsx
 const Button = styled.button({

@@ -25,7 +25,7 @@ const className = rule({
 ```
 
 Those are good for __DX__ and they will decrease your overall bundle size after
-sufficient use. You can find the full up-to-date atom list [here](../addon/atoms.js). Below
+sufficient use. You can find the full up-to-date atom list [here]<!-- (../addon/atoms.js) -->. Below 
 is the atom list at the moment of this writing:
 
 ```js
