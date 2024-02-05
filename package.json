@@ -86,7 +86,7 @@
         "webpack": "5.12.2",
         "webpack-bundle-analyzer": "4.3.0",
         "webpack-dev-server": "3.11.1",
-        "yarn": "1.22.10"
+        "yarn": "1.22.13"
     },
     "config": {
         "commitizen": {
